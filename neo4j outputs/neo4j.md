@@ -1,4 +1,4 @@
-# Creating and Querying the Graph Model (Course- Provider)
+# Creating and Querying the Graph Model (Course - Provider)
 
 ### CREATE:
 
